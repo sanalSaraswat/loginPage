@@ -1,4 +1,4 @@
-import { Box, Button, Typography } from '@material-ui/core'
+import { Box, Button, Typography } from '@mui/material'
 import TextField from '@mui/material/TextField'
 import { IconButton, InputAdornment, Stack } from '@mui/material'
 import AccountCircle from '@mui/icons-material/AccountCircle'

@@ -9,7 +9,7 @@ import SearchMedicines from './components/SearchMedicines'
 import Reviews from './components/Reviews'
 import Footer from './components/Footer'
 import { ref, uploadBytes } from 'firebase/storage'
-import { Box, Button, Modal, TextField, Typography } from '@material-ui/core'
+import { Box, Button, Modal, TextField, Typography } from '@mui/material'
 
 const Dashboard = () => {
 

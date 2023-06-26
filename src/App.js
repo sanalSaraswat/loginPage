@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Register from "./components/Register";
-import { Box } from "@material-ui/core";
+import { Box } from "@mui/material";
 import Dashboard from "./Dashboard";
 
 function App() {
